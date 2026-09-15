@@ -57,7 +57,7 @@ Workbook -> Worksheet -> Range / Cell
 | 产品主页 | https://www.grapecity.com.cn/developer/spreadjs |
 | 在线文档 | https://demo.grapecity.com.cn/spreadjs/help/docs/ |
 | API 参考（在线） | https://demo.grapecity.com.cn/spreadjs/help/api/ |
-| API 参考（本仓库对应的开源版） | https://github.com/GrapeCityXA/SpreadJSApiDoc |
+| API 参考（本仓库对应的开源版） | https://github.com/GrapeCityXA/spreadjs-api-reference |
 | 在线示例 | https://demo.grapecity.com.cn/spreadjs/SpreadJSTutorial/ |
 | NPM | [`@grapecity-software/spread-sheets`](https://www.npmjs.com/package/@grapecity-software/spread-sheets) |
 
@@ -111,7 +111,7 @@ Workbook -> Worksheet -> Range / Cell
 
 本仓库的 API 部分只有一个命名空间级别的索引（`7.API 与参考/0.API 索引.md`），列到 `GC.Spread.Sheets.Charts` 这样的层级就结束了，没有类、方法、参数和返回值。
 
-完整 API 参考在这里：**https://github.com/GrapeCityXA/SpreadJSApiDoc**
+完整 API 参考在这里：**https://github.com/GrapeCityXA/spreadjs-api-reference**
 
 那份文档由 TypeDoc 从源码注释生成，纯 Markdown，同样按版本分目录，覆盖 v17.0 到 v19.1（README 中另列有 v16.2）。每个版本下是 `modules/`、`classes/`、`interfaces/`、`enums/` 四棵树，另加 `designer/`、`excelio/`、`collaboration/` 三棵子树（`collaboration/` 从 v18.0 起才有）。正文说明是中文，签名、类型名和代码示例与语言无关。
 
@@ -154,7 +154,7 @@ rg "SUMIF" v19.1/5.公式/          # 找某个函数
 `toc-item-id` 是文档站的内部标识，仓库里没有对应的映射文件，链接点不开。但链接的两部分仍然有信息量：
 
 - 链接文字 `Workbook.addSheet` 是目标文档的标题，拿它反查文件名或正文能定位到目标
-- URL 片段 `#addSheet` 是目标 API 成员名，可以拿去 [GrapeCityXA/spreadjs-api-reference](https://github.com/GrapeCityXA/SpreadJSApiDoc) 里查
+- URL 片段 `#addSheet` 是目标 API 成员名，可以拿去 [GrapeCityXA/spreadjs-api-reference](https://github.com/GrapeCityXA/spreadjs-api-reference) 里查
 
 ### 2. 图片不在仓库里
 
