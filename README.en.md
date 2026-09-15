@@ -228,5 +228,3 @@ When citing, give the file path — not a toc-item-id.
 ## Copyright and licensing
 
 The documentation content is copyright © Xi'an GrapeCity Software Co., Ltd. (西安葡萄城软件有限公司). No open-source license is declared for this repository; to redistribute or commercially use the documentation content, follow GrapeCity's terms.
-
-SpreadJS itself is a commercial component and requires a purchased license. The evaluation build shows a watermark in the bottom-right corner. See [`v19.1/0.新手入门/2.试用版和许可信息.md`](v19.1/0.新手入门/2.试用版和许可信息.md) for license configuration and [`v19.1/0.新手入门/3.最终用户许可协议.md`](v19.1/0.新手入门/3.最终用户许可协议.md) for the full terms.
