@@ -4,7 +4,7 @@ English | [中文](README.md)
 
 This repository holds the Markdown version of the SpreadJS Chinese product documentation, so that developers and AI agents can search, cite, and read it offline. **The documentation text is in Chinese.**
 
-It contains the complete product documentation but **no images**, and **no method-level API reference** — the API reference is open-sourced separately at [GrapeCityXA/spreadjs-api-reference](https://github.com/GrapeCityXA/SpreadJSApiDoc). To look up a class, method, parameter, or return type, go there.
+It contains the complete product documentation but **no images**, and **no method-level API reference** — the API reference is open-sourced separately at [GrapeCityXA/spreadjs-api-reference](https://github.com/GrapeCityXA/spreadjs-api-reference). To look up a class, method, parameter, or return type, go there.
 
 ## Version directories
 

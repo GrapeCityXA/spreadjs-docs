@@ -1,0 +1,26 @@
+# spreadjs_designer_component
+
+除了表格组件之外，SpreadJS还提供了一组可以嵌入到web应用程序中的设计器组件。这些组件为您提供了在几次单击中轻松定制表格的灵活性。设计器组件包括功能区、公式栏、状态栏、侧面板和上下文菜单。这些组件也可以通过使用各自的包装器嵌入到React、Angular或Vue框架中。
+
+请注意，这与可以安装在您的机器上的[SpreadJS Designer 应用程序](https://www.grapecity.com/spreadjs/download)是分开的，它允许您自定义表格模板。
+
+在SpreadJS设计器组件内建的对话框和选项可以用来定义细节，如超链接的链接颜色，单元格填充，表格设置等。还可以通过添加新的按钮或选项卡或定制现有的按钮或选项卡来定制设计器组件。
+
+SpreadJS Designer组件需要一个单独的部署许可才能在您自己的应用程序中部署此功能。有关许可的更多信息，请参阅[开始](gcdocsite__documentlink?toc-item-id=9ca012fb-c74a-4e76-ac74-61420067be72)。 .
+> **注意:** SpreadJS Designer组件需要一个单独的部署许可才能在您自己的应用程序中部署此功能。有关许可的更多信息，请参阅[开始](gcdocsite__documentlink?toc-item-id=9ca012fb-c74a-4e76-ac74-61420067be72)。 . 
+下图显示了与空表格组件集成的组件版设计器。
+
+![](/DOCUMENT_SITE_LINK_PREFIX_HERE/document-site-files/images/041236cd-4159-4f89-9e42-7be2bb789d22/images/designer-component.png)
+
+
+
+要了解更多关于组件版设计器的信息，请参考以下主题:
+
+|  **主题**  |  **内容**  |
+|--- |--- |
+| [开始](gcdocsite__documentlink?toc-item-id=9ca012fb-c74a-4e76-ac74-61420067be72) | 开始使用组件版设计器的安装文件和许可证信息。 |
+| [快速开始](gcdocsite__documentlink?toc-item-id=f5fcc86f-418a-4f58-a087-6dc8bc83186b) | 初始化组件版设计器的详细说明。 |
+| [定制](gcdocsite__documentlink?toc-item-id=0bdf0f43-1bbc-44c0-af7d-966b207866dc) | 通过添加、删除或重写各种命令来定制组件版设计器。 |
+
+
+

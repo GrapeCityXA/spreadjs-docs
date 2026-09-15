@@ -4,7 +4,7 @@
 
 这个仓库是 SpreadJS 中文产品文档的 Markdown 版本，方便开发者和 AI Agent 直接检索、引用和离线阅读。正文为中文。
 
-仓库里有完整的产品文档，但**不含图片资源**；也**不含方法级 API 文档**——API 参考单独开源在 [GrapeCityXA/spreadjs-api-reference](https://github.com/GrapeCityXA/SpreadJSApiDoc)，要查某个类、方法、参数或返回值，请去那个仓库。
+仓库里有完整的产品文档，但**不含图片资源**；也**不含方法级 API 文档**——API 参考单独开源在 [GrapeCityXA/spreadjs-api-reference](https://github.com/GrapeCityXA/spreadjs-api-reference)，要查某个类、方法、参数或返回值，请去那个仓库。
 
 ## 版本目录
 
