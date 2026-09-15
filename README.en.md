@@ -4,7 +4,15 @@ English | [中文](README.md)
 
 This repository holds the Markdown version of the SpreadJS Chinese product documentation, so that developers and AI agents can search, cite, and read it offline. **The documentation text is in Chinese.**
 
-It contains the complete product documentation but **no images**, and **no method-level API reference** — the API reference is open-sourced separately at [GrapeCityXA/spreadjs-api-reference](https://github.com/GrapeCityXA/spreadjs-api-reference). To look up a class, method, parameter, or return type, go there.
+It contains the complete product documentation but **no images**, and **no method-level API reference** — that part is open-sourced separately at `spreadjs-api-reference` (see Related repositories below). To look up a class, method, parameter, or return type, go there.
+
+## Related repositories
+
+| Repository | Contents |
+| --- | --- |
+| [spreadjs-docs](https://github.com/GrapeCityXA/spreadjs-docs) | Product documentation: guides, feature reference, formula functions, split by version (this repository) |
+| [spreadjs-api-reference](https://github.com/GrapeCityXA/spreadjs-api-reference) | API reference: complete TypeDoc-generated symbol docs, split by version |
+| [spreadjs-practice-samples](https://github.com/GrapeCityXA/spreadjs-practice-samples) | Practice samples: runnable example projects grouped by scenario |
 
 ## Version directories
 
@@ -57,7 +65,6 @@ One `Workbook` per page, multiple `Worksheet`s inside it, and nearly all data, f
 | Product home | https://www.grapecity.com.cn/developer/spreadjs |
 | Online docs | https://demo.grapecity.com.cn/spreadjs/help/docs/ |
 | API reference (online) | https://demo.grapecity.com.cn/spreadjs/help/api/ |
-| API reference (open source) | https://github.com/GrapeCityXA/spreadjs-api-reference |
 | Online demos | https://demo.grapecity.com.cn/spreadjs/SpreadJSTutorial/ |
 | NPM | [`@grapecity-software/spread-sheets`](https://www.npmjs.com/package/@grapecity-software/spread-sheets) |
 

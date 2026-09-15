@@ -4,7 +4,15 @@
 
 这个仓库是 SpreadJS 中文产品文档的 Markdown 版本，方便开发者和 AI Agent 直接检索、引用和离线阅读。正文为中文。
 
-仓库里有完整的产品文档，但**不含图片资源**；也**不含方法级 API 文档**——API 参考单独开源在 [GrapeCityXA/spreadjs-api-reference](https://github.com/GrapeCityXA/spreadjs-api-reference)，要查某个类、方法、参数或返回值，请去那个仓库。
+仓库里有完整的产品文档，但**不含图片资源**；也**不含方法级 API 文档**——那部分单独开源在 `spreadjs-api-reference`（见下方「相关仓库」）。要查某个类、方法、参数或返回值，请去那个仓库。
+
+## 相关仓库
+
+| 仓库 | 内容 |
+| --- | --- |
+| [spreadjs-docs](https://github.com/GrapeCityXA/spreadjs-docs) | 产品文档：使用指南、功能说明、公式函数参考，按版本分目录（本仓库） |
+| [spreadjs-api-reference](https://github.com/GrapeCityXA/spreadjs-api-reference) | API 参考：TypeDoc 生成的完整符号文档，按版本分目录 |
+| [spreadjs-practice-samples](https://github.com/GrapeCityXA/spreadjs-practice-samples) | 实战示例：按场景分类的可运行示例工程 |
 
 ## 版本目录
 
@@ -57,7 +65,6 @@ Workbook -> Worksheet -> Range / Cell
 | 产品主页 | https://www.grapecity.com.cn/developer/spreadjs |
 | 在线文档 | https://demo.grapecity.com.cn/spreadjs/help/docs/ |
 | API 参考（在线） | https://demo.grapecity.com.cn/spreadjs/help/api/ |
-| API 参考（本仓库对应的开源版） | https://github.com/GrapeCityXA/spreadjs-api-reference |
 | 在线示例 | https://demo.grapecity.com.cn/spreadjs/SpreadJSTutorial/ |
 | NPM | [`@grapecity-software/spread-sheets`](https://www.npmjs.com/package/@grapecity-software/spread-sheets) |
 
